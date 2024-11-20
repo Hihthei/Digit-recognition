@@ -1,3 +1,8 @@
 poetry.lock
 .python-version
 
+*.idea/
+*.venv/
+*__pycache__/
+source/AI/test_data/*
+source/AI/models/*
